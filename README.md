@@ -1,6 +1,6 @@
 # stripe_nextjs
 
-starter template - sick of doing this again.
+stripe embedded checkout starter template - sick of doing this again.
 
 # Stack
 
