@@ -12,4 +12,5 @@ starter template - sick of doing this again.
   - Saves me time not figuring the command for yarn
 - [x] javascript
   - The T in typescript stands for Teams or I'm too bad at it.
-- [x] tailwind
+- [x] tailwindcss
+- [x] prettier plugin for tailwind
