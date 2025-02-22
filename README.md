@@ -1,6 +1,8 @@
 # notes
 
-- [ ] tool call without `execute` function
+- [x] tool call without `execute` function
+  - there's no result from the tool call
+  - and AI has no subsequent response, even with `maxStep` enabled/set.
 
 # stripe_nextjs
 
